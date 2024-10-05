@@ -24,7 +24,8 @@ StockPredictor is a Python-based application designed to forecast stock prices u
 - Python 3.x
 - Flask (or another web framework if used)
 - Python libraries listed in requirements.txt
-Contributing
+
+# Contributing
 If you want to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 # License
